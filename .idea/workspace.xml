@@ -16,10 +16,20 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fe742ab-7478-446d-a8e0-db91d7fb6505" name="Default Changelist" comment="Springboot" />
+    <list default="true" id="9fe742ab-7478-446d-a8e0-db91d7fb6505" name="Default Changelist" comment="some xml files">
+      <change beforePath="$PROJECT_DIR$/.idea/EmployeeManagerApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EmployeeManagerApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +37,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -61,6 +78,21 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,6 +102,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659740018348</updated>
       <workItem from="1659740020928" duration="748000" />
+      <workItem from="1659740901047" duration="410000" />
+      <workItem from="1659741387377" duration="1493000" />
     </task>
     <task id="LOCAL-00001" summary="Springboot">
       <created>1659740494774</created>
@@ -78,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659740494774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some xml files">
+      <created>1659741080136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659741080136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,28 +130,50 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Springboot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springboot" />
+    <MESSAGE value="some xml files" />
+    <option name="LAST_COMMIT_MESSAGE" value="some xml files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4580" y="270" key="FileChooserDialogImpl" timestamp="1659740752377">
       <screen x="3840" y="0" width="1920" height="1032" />
     </state>
     <state x="4580" y="270" key="FileChooserDialogImpl/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659740752377" />
+    <state x="4438" y="276" key="MultipleFileMergeDialog" timestamp="1659741126541">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4438" y="276" key="MultipleFileMergeDialog/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659741126541" />
     <state x="4280" y="89" key="SettingsEditor" timestamp="1659740108593">
       <screen x="3840" y="0" width="1920" height="1032" />
     </state>
     <state x="4280" y="89" key="SettingsEditor/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659740108593" />
-    <state x="4392" y="235" key="Vcs.Push.Dialog.v2" timestamp="1659740504979">
+    <state x="4392" y="235" key="Vcs.Push.Dialog.v2" timestamp="1659741250388">
       <screen x="3840" y="0" width="1920" height="1032" />
     </state>
-    <state x="4392" y="235" key="Vcs.Push.Dialog.v2/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659740504979" />
+    <state x="4392" y="235" key="Vcs.Push.Dialog.v2/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659741250388" />
+    <state x="4617" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659741147309">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4617" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659741147309" />
   </component>
 </project>
