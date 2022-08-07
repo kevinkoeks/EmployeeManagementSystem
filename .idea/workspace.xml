@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fe742ab-7478-446d-a8e0-db91d7fb6505" name="Default Changelist" comment="Fixed Maven config" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="AddSpingboot" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\kevin\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2CxMvbMGG1AYnaHAAShQS38OJRG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/employeeManager" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/employeeManager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fe742ab-7478-446d-a8e0-db91d7fb6505" name="Default Changelist" comment="" />
+      <created>1659740018348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659740018348</updated>
+      <workItem from="1659740020928" duration="748000" />
+      <workItem from="1659740901047" duration="410000" />
+      <workItem from="1659741387377" duration="1652000" />
+      <workItem from="1659743244292" duration="1610000" />
+      <workItem from="1659813233166" duration="289000" />
+      <workItem from="1659813539200" duration="329000" />
+      <workItem from="1659813884196" duration="1072000" />
+      <workItem from="1659814984097" duration="473000" />
+      <workItem from="1659815480283" duration="94000" />
+      <workItem from="1659815586931" duration="4000" />
+      <workItem from="1659815616841" duration="253000" />
+      <workItem from="1659815888979" duration="622000" />
+      <workItem from="1659816533638" duration="78000" />
+      <workItem from="1659816628578" duration="828000" />
+      <workItem from="1659817576214" duration="976000" />
+      <workItem from="1659821053900" duration="320000" />
+    </task>
+    <task id="LOCAL-00001" summary="Springboot">
+      <created>1659740494774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659740494774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some xml files">
+      <created>1659741080136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659741080136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added package+code">
+      <created>1659743031828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659743031828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed Maven config">
+      <created>1659821307414</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659821307414</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Springboot" />
+    <MESSAGE value="some xml files" />
+    <MESSAGE value="added package+code" />
+    <MESSAGE value="Fixed Maven config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Maven config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4660" y="170" width="1100" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659817813911">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4660" y="170" width="1100" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659817813911" />
+    <state x="4848" y="266" key="FileChooserDialogImpl" timestamp="1659817656874">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4848" y="266" key="FileChooserDialogImpl/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659817656874" />
+    <state x="4438" y="276" key="MultipleFileMergeDialog" timestamp="1659741126541">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4438" y="276" key="MultipleFileMergeDialog/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659741126541" />
+    <state x="4945" y="219" key="NewModule_or_Project.wizard" timestamp="1659817460947">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4945" y="219" key="NewModule_or_Project.wizard/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659817460947" />
+    <state x="4720" y="122" key="SettingsEditor" timestamp="1659816978180">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4720" y="122" key="SettingsEditor/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659816978180" />
+    <state x="4392" y="235" key="Vcs.Push.Dialog.v2" timestamp="1659821311520">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4392" y="235" key="Vcs.Push.Dialog.v2/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659821311520" />
+    <state x="4944" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1659816731293">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4944" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659816731293" />
+    <state x="4617" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659821066195">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4617" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659821066195" />
+    <state x="4943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1659816188939">
+      <screen x="3840" y="0" width="1920" height="1032" />
+    </state>
+    <state x="4943" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/3840.0.1920.1032@3840.0.1920.1032" timestamp="1659816188939" />
+  </component>
+</project>
