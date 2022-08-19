@@ -1,5 +1,6 @@
 package com.kevcompany.employeeManager.service;
 
+import com.kevcompany.employeeManager.exception.UserNotFoundException;
 import com.kevcompany.employeeManager.model.Employee;
 import com.kevcompany.employeeManager.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,9 +31,9 @@ public class EmployeeService {
         return employeeRepository.save(employee);
     }
 
-//    public Employee findTheEmployeeById(Long id) {
-//        return employeeRepository.findTheEmployeeById(id).orElseThrow( () -> new UserNotFoundException("User by the id: " + id + " was not found"));
-//    }
+    public Employee findTheEmployeeById(Long id) {
+        return employeeRepository.findTheEmployeeById(id).orElseThrow( () -> new UserNotFoundException("User by the id: " + id + " was not found"));
+    }
 
     public void deleteTheEmployee(Long id) {
         employeeRepository.deleteEmployeeById(id);
