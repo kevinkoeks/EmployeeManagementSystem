@@ -31,7 +31,7 @@ public class EmployeeResource {
 
     @PostMapping("/add") // Post/creat info to the backend server
     public ResponseEntity<Employee> addEmployee(@RequestBody Employee employee) { //Receives the body of Employee info in Json format
-        Employee newEmployee = employeeService.addEmployee(employee);
+        Employee newEmployee = this.employeeService.addEmployee(employee);
         return new ResponseEntity<>(newEmployee, HttpStatus.CREATED);
     }
 
@@ -42,7 +42,7 @@ public class EmployeeResource {
     }
 
     @DeleteMapping("/delete/{id}")
-    public ResponseEntity<?> deleteEmployee(@PathVariable("id") Long id) { // "<?>" place holder, when doesn't return anything
+    public ResponseEntity<Object> deleteEmployee(@PathVariable("id") Long id) { // "<?>" place holder, when doesn't return anything
         employeeService.deleteTheEmployee(id);
         return new ResponseEntity<>(HttpStatus.OK);
     }
