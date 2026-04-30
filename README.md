@@ -45,11 +45,14 @@ Start MySQL and create the database:
 CREATE DATABASE employeemanager;
 ```
 
-The default credentials are `root / root`. If your MySQL setup is different, update them in:
+The backend reads credentials from environment variables, defaulting to `root / root` for local development:
 
+```bash
+export DB_USERNAME=your_username
+export DB_PASSWORD=your_password
 ```
-employeeManager/employeeManager/src/main/resources/application.properties
-```
+
+If you don't set these, it falls back to `root / root` automatically.
 
 ### 2. Start the backend
 
