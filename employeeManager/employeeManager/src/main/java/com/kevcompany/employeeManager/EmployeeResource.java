@@ -6,6 +6,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import javax.validation.Valid;
+
 import java.util.List;
 
 @RestController
@@ -30,13 +32,13 @@ public class EmployeeResource {
     }
 
     @PostMapping("/add") // Post/creat info to the backend server
-    public ResponseEntity<Employee> addEmployee(@RequestBody Employee employee) { //Receives the body of Employee info in Json format
+    public ResponseEntity<Employee> addEmployee(@Valid @RequestBody Employee employee) { //Receives the body of Employee info in Json format
         Employee newEmployee = this.employeeService.addEmployee(employee);
         return new ResponseEntity<>(newEmployee, HttpStatus.CREATED);
     }
 
     @PutMapping("/update") // Puts/update current employee in the backend server
-    public ResponseEntity<Employee> updateEmployee(@RequestBody Employee employee) { //See from id that employee already exists
+    public ResponseEntity<Employee> updateEmployee(@Valid @RequestBody Employee employee) { //See from id that employee already exists
         Employee updateEmployee = employeeService.updateEmployee(employee);
         return new ResponseEntity<>(updateEmployee, HttpStatus.OK);
     }

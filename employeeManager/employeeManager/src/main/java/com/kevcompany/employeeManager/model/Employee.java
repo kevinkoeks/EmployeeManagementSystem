@@ -1,6 +1,8 @@
 package com.kevcompany.employeeManager.model;
 
 import javax.persistence.*;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
 
 @Entity //Database
@@ -9,9 +11,14 @@ public class Employee implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(nullable = false,updatable = false)
     private Long id; //primairyKey
+    @NotBlank(message = "Name is required")
     private String name;
+    @NotBlank(message = "Email is required")
+    @Email(message = "Email must be valid")
     private String email;
+    @NotBlank(message = "Job title is required")
     private String jobTitle;
+    @NotBlank(message = "Phone number is required")
     private String phoneNr;
     private String imageUrl;
     @Column(nullable = false,updatable = false) //will count for the line below it
