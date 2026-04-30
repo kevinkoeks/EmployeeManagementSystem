@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ng version *)",
+      "Bash(npm --version)",
+      "Bash(/usr/local/bin/node --version)",
+      "Bash(/opt/homebrew/bin/node --version)",
+      "Read(//usr/local/bin/**)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//Users/kevinkoeks/.nvm/versions/**)",
+      "Read(//Users/kevinkoeks/n/**)",
+      "Read(//usr/local/**)",
+      "Bash(grep -E \"^\\(node|npm|ng\\)$\")",
+      "Bash(DYLD_LIBRARY_PATH=/opt/homebrew/lib /opt/homebrew/bin/node --version)",
+      "Bash(brew reinstall *)",
+      "Bash(brew update *)",
+      "Bash(/opt/homebrew/bin/npm --version)",
+      "Bash(export PATH=\"/opt/homebrew/bin:$PATH\")",
+      "Bash(npm install *)",
+      "Bash(ng new *)",
+      "Bash(ng build *)"
+    ]
+  }
+}
